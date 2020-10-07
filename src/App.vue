@@ -21,13 +21,6 @@ export default {
 <style lang="scss">
 #app {
     font-family: Open Sans;
-    margin: -9px;
-    min-width: 1280px;
-
-    //   -webkit-font-smoothing: antialiased;
-    //   -moz-osx-font-smoothing: grayscale;
-    //   text-align: center;
-    //   color: #2c3e50;
-    //   margin-top: 60px;
+    margin: -8px;
 }
 </style>
